@@ -20,7 +20,7 @@ $$ \text{Total Amount (A)} = P + \text{SI} $$
 
 1.  *Clone the repository:*
     bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Sampath-builds/final_project.git)
     cd your-repo-name
     
 2.  *Make the script executable:*
